@@ -1,2 +1,1 @@
-# KnightsTour
-Implementation of Backtracking algorithm
+# Knights-Tour
